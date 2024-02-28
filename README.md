@@ -1,5 +1,6 @@
 # MovieReviewer
-
+--> This project is a sample project created as a kick starter for Angular JS learning 
+!! Happy Coding !!
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
 
 ## Development server
